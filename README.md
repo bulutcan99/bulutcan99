@@ -14,5 +14,5 @@ Skills: Python/JS/Node/Express/TS/Deno
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulutcan99)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bulutcan99)  
+
 
