@@ -4,7 +4,10 @@
 
 I'm Bulut from Turkey, and I work on Backend Development. I really enjoy learning new stuffs like Python, Express, TS, Deno, as well as working JS. If you have any questions, please feel free to ask ^^ 
 
-Skills: Python -> Flask, CV, ML
+
+
+
+        Skills: Python -> Flask, CV, ML
 
 
 
