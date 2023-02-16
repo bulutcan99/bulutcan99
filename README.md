@@ -4,7 +4,8 @@
 
 I'm Bulut from Turkey, and I work on Backend Development. I really enjoy learning new stuffs like Python, Express, TS, Deno, as well as working JS. If you have any questions, please feel free to ask ^^ 
 
-Skills: Python/JS/Node/Express/TS/Deno
+Skills: Python -> Flask, CV, ML
+        JS -> Node.js, Express, TS, Deno etc.
 
 - 🌱 I’m currently learning TS and Deno 
 - 📫 How to reach me: bulutcangocer0199@gmail.com 
