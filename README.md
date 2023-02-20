@@ -13,7 +13,7 @@ I'm Bulut from Turkey, and I work on Backend Development. I really enjoy learnin
                 
 
 
-- 🌱 I’m currently learning TS and Deno 
+- 🌱 I’m currently learning GO and Deno 
 - 📫 How to reach me: bulutcangocer0199@gmail.com 
 
 
