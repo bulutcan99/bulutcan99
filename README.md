@@ -1,5 +1,5 @@
 ### Hi there 👋, Bulut Can Göçer
-#### Node.js Back-end Developer
+#### Back-end Developer
 ![Node.js Back-end Developer](https://media.licdn.com/dms/image/D4D16AQEQb4PUsM5IMg/profile-displaybackgroundimage-shrink_350_1400/0/1674320818650?e=1681344000&v=beta&t=oRqRmxdo7cMSwriy_ttvRjmL8zzLkGthypTWFpCP9aM)
 
 I'm Bulut from Turkey, and I work on Backend Development. I really enjoy learning new stuffs like Python, Express, TS, Deno, as well as working JS. If you have any questions, please feel free to ask ^^ 
