@@ -14,7 +14,7 @@ I'm Bulut from Turkey, and I work on Backend Development. I really enjoy learnin
 
 
 - 🌱 I’m currently learning GO and Deno 
-- 📫 How to reach me: bulutcangocer0199@gmail.com 
+- 📫 How to reach me: gocerbulutcan@gmail.com 
 
 
 Github: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bulutcan99) 
