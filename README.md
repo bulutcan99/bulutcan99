@@ -2,7 +2,7 @@
 #### Back-end Developer
 ![I am GitHub Readme Generator's creator](https://www.geekbits.io/content/images/size/w1000/2022/08/gopher.png)
 
-I'm Bulut from Turkey, and I work on Backend Development. I really enjoy learning new stuffs like Python, Express, TS, Deno, as well as working JS. If you have any questions, please feel free to ask ^^ 
+I'm Bulut from Turkey, and I work on Backend Development. I really enjoy learning new stuffs like Python/Flask, Node.js/Express as well as working Go/Fiber. If you have any questions, please feel free to ask ^^ 
 
 
 
