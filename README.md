@@ -1,6 +1,6 @@
 ### Hi there 👋, Bulut Can Göçer
 #### Back-end Developer
-![I am GitHub Readme Generator's creator](https://velog.velcdn.com/images/logic/post/fe87f823-17ec-4e11-b162-c2aa1f3b630f/img.jpeg)
+![I am GitHub Readme Generator's creator](https://www.geekbits.io/content/images/size/w1000/2022/08/gopher.png)
 
 I'm Bulut from Turkey, and I work on Backend Development. I really enjoy learning new stuffs like Python, Express, TS, Deno, as well as working JS. If you have any questions, please feel free to ask ^^ 
 
@@ -13,7 +13,7 @@ I'm Bulut from Turkey, and I work on Backend Development. I really enjoy learnin
                 
 
 
-- 🌱 I’m currently learning GO and Deno 
+- 🌱 I’m currently learning GO and Fiber
 - 📫 How to reach me: gocerbulutcan@gmail.com 
 
 
