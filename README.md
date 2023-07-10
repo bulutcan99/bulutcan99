@@ -6,8 +6,8 @@ I'm Bulut from Turkey, and I work on Backend Development. I really enjoy learnin
 
 
 
-        Skills: Python -> Flask, CV, ML
-                Node.js -> Express
+        Skills: Python -> Flask, CV
+                TS, Node.js -> Express
                 GO -> Fiber
                 
 
