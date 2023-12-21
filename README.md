@@ -4,15 +4,7 @@
 
 I'm Bulut from Turkey, and I work on Backend Development. I really enjoy learning new stuffs like Python/Flask, Node.js/Express as well as working Go/Fiber. If you have any questions, please feel free to ask ^^ 
 
-
-
-        Skills: Python -> Flask, CV
-                TS, Node.js -> Express
-                GO -> Fiber
-                
-
-
-- 🌱 I’m currently working on GO and Fiber
+- 🌱 I’m currently working on GO.
 - 📫 How to reach me: gocerbulutcan@gmail.com 
 
 
