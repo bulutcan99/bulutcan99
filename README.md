@@ -2,7 +2,7 @@
 #### Back-end Developer
 ![I am GitHub Readme Generator's creator](https://www.geekbits.io/content/images/size/w1000/2022/08/gopher.png)
 
-I'm Bulut from Turkey, and I work on Backend Development. Go Backend Developer specializing in scalable server-side applications and RESTful API design. Enjoys optimizing performance and integrating services. Excited to contribute to cool projects using Go.
+I'm Bulut from Turkey, and I work on Backend Development. Backend Developer specializing in scalable server-side applications and RESTful API design. Enjoys optimizing performance and integrating services. Excited to contribute to cool projects using Go.
 
 - 💬 Ask me about anything.
 - 📫 How to reach me: gocerbulutcan@gmail.com 
