@@ -9,6 +9,7 @@ I'm a Backend Developer specializing in scalable server-side applications. I enj
 Github: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bulutcan99) 
 Linkedin: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bulut-can-göçer-a92332263/)  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulutcan99&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulutcan99)](https://github.com/anuraghazra/github-readme-stats)
 
 
