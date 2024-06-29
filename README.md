@@ -3,7 +3,7 @@
 
 I'm a Backend Developer specializing in scalable server-side applications. I enjoy optimizing performance and integrating services. Currently, I'm working with Go and Rust.
 
-- 💬 Ask me about anything.
+- 💬 You can ask me anything.
 - 📫 How to reach: gocerbulutcan@gmail.com 
 
 Github: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bulutcan99) 
