@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Bulut Can from Istanbul, Turkey.
+### Hi there 👋, I'm Bulut from Istanbul, Turkey.
 ![I am GitHub Readme Generator's creator](https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1632583991063-DG67R13E0S7XK244CSVE/rust-vs-go.png?format=2500w)
 
 I'm a Backend Developer specializing in scalable server-side applications. I enjoy optimizing performance and integrating services. Currently, I'm working with Go and Rust.
