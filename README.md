@@ -3,7 +3,7 @@
 
 I'm a software engineer who loves backend development and low-level systems. I'm also active in the open-source community, where I enjoy collaborating and sharing knowledge.
 
-- 🌐 Languages: Go, Rust, Python 
+- 🌐 Languages: Go, Rust, Node, Python 
 - 💬 You can ask me anything.
 - 📫 How to reach: gocerbulutcan@gmail.com 
 
