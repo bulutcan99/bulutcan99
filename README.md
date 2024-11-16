@@ -8,4 +8,4 @@ I'm a software engineer who loves backend development and low-level systems. I'm
 - 📫 How to reach: gocerbulutcan@gmail.com 
 
 Github: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bulutcan99) 
-Linkedin: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bulut-can-göçer-a92332263/)  
+Linkedin: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bulutcangocer/)  
